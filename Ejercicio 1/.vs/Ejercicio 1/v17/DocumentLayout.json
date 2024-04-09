@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\OneDrive\\Documentos\\TSDS 2\\Visual Studio\\Ejercicio 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7147EA0-CEC6-4812-B8B8-F1B7974B1B87}|Ejercicio 1\\Ejercicio 1.csproj|c:\\users\\usuario\\onedrive\\documentos\\tsds 2\\visual studio\\ejercicio 1\\ejercicio 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7147EA0-CEC6-4812-B8B8-F1B7974B1B87}|Ejercicio 1\\Ejercicio 1.csproj|solutionrelative:ejercicio 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\TSDS 2\\Visual Studio\\Ejercicio 1\\Ejercicio 1\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio 1\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\TSDS 2\\Visual Studio\\Ejercicio 1\\Ejercicio 1\\Program.cs",
+              "RelativeToolTip": "Ejercicio 1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T20:43:54.487Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
