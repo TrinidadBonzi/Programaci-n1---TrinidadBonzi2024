@@ -2,6 +2,7 @@
 //Calcular la suma de dos números.
 Console.Write("Ingrese un número: ");
 int numero1 = Int32.Parse(Console.ReadLine());
+
 Console.Write("Ingrese un número: ");
 int numero2 = Int32.Parse(Console.ReadLine());
 
